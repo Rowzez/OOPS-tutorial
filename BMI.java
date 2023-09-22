@@ -5,7 +5,7 @@ public class BMI {
 
 	public static void main(String[] args) {
 		Scanner weight= new Scanner(System.in);
-		Scanner height= new Scanner(System.in);
+		Scanner height= new Scanner(System.in);//live and learn
 		
 		float w;
 		float h;
