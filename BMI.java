@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class BMI {
 
 	public static void main(String[] args) {
-		Scanner weight= new Scanner(System.in);
+		Scanner weight= new Scanner(System.in);//Nguthis ni mnoma
 		Scanner height= new Scanner(System.in);
 		
 		float w;
